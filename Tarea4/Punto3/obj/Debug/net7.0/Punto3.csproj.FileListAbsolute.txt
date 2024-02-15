@@ -1,0 +1,15 @@
+D:\Curso .Net\Actividad1\Tarea4\Punto3\bin\Debug\net7.0\Punto3.exe
+D:\Curso .Net\Actividad1\Tarea4\Punto3\bin\Debug\net7.0\Punto3.deps.json
+D:\Curso .Net\Actividad1\Tarea4\Punto3\bin\Debug\net7.0\Punto3.runtimeconfig.json
+D:\Curso .Net\Actividad1\Tarea4\Punto3\bin\Debug\net7.0\Punto3.dll
+D:\Curso .Net\Actividad1\Tarea4\Punto3\bin\Debug\net7.0\Punto3.pdb
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\Punto3.csproj.AssemblyReference.cache
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\Punto3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\Punto3.AssemblyInfoInputs.cache
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\Punto3.AssemblyInfo.cs
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\Punto3.csproj.CoreCompileInputs.cache
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\Punto3.dll
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\refint\Punto3.dll
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\Punto3.pdb
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\Punto3.genruntimeconfig.cache
+D:\Curso .Net\Actividad1\Tarea4\Punto3\obj\Debug\net7.0\ref\Punto3.dll
